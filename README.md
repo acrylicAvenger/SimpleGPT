@@ -1,6 +1,9 @@
 # SimpleGPT
 
-
+This is the implementation of a simple GPT model which I have made as a part of my personal project for gaining insight into neural networks, NLP and allied fields. I started working on this project out of curiosity and fascination which sparked my interest in Generative Pre-trained Transformers. 
+I am still new to this field and this project is a documentation of my learning and enthusiasm to gain knowledge. 
+This code is a result of research from a lot of websites, research papers, youtube video of Andrej Kaparthy, OpenAI and pytorch documentation.
+All the references have been attached below and I am open to suggestions, feedbacks and positive transformations.  
 
 # External resources
 - Chat-GPT paper from Open-AI - https://arxiv.org/abs/2005.14165
